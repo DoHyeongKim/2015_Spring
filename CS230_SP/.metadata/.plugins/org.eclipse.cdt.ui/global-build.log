@@ -1,0 +1,30 @@
+21:19:37 **** Incremental Build of configuration Default for project HelloTest ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+21:23:11 **** Incremental Build of configuration Default for project HelloTest ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+21:23:12 **** Incremental Build of configuration Default for project HelloTest ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+21:23:13 **** Incremental Build of configuration Default for project HelloTest ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+21:23:13 **** Incremental Build of configuration Default for project HelloTest ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+21:23:14 **** Incremental Build of configuration Default for project HelloTest ****
+make all 
+make: *** No rule to make target 'all'.  Stop.
+21:30:24 **** Incremental Build of configuration Default for project HelloTest ****
+make 
+make: *** No targets specified and no makefile found.  Stop.
+21:30:58 **** Incremental Build of configuration Default for project HelloTest ****
+make hello 
+make: *** No rule to make target 'hello'.  Stop.
+21:31:35 **** Incremental Build of configuration Default for project HelloTest ****
+make hello 
+make: *** No rule to make target 'hello'.  Stop.
+21:31:36 **** Incremental Build of configuration Default for project HelloTest ****
+make hello 
+make: *** No rule to make target 'hello'.  Stop.

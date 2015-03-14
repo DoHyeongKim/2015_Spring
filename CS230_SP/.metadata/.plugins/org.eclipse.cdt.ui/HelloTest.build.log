@@ -1,0 +1,6 @@
+21:31:36 **** Incremental Build of configuration Default for project HelloTest ****
+make hello 
+make: *** No rule to make target 'hello'.  Stop.
+
+21:31:37 Build Finished (took 78ms)
+
